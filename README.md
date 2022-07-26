@@ -9,7 +9,7 @@
 
 **Turma**: 10A, 14A
 
-Link do repositório GitHub: `https://github.com/joicyreis/EFC1`
+Link do repositório GitHub: https://github.com/joicyreis/EFC1
 
 ● O trabalho deve ser feito em grupos de no máximo 2 componentes (todos devem enviar a atividade no Campus Virtual)
 
