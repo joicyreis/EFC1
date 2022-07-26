@@ -3,7 +3,7 @@
 > **Prof.: Douglas H. S. Abreu**
 
 
-**Aluno**: Joicy Paula dos Reis
+**Aluna**: Joicy Paula dos Reis
 
 **Matricula**: 201920347
 
